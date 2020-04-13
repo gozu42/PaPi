@@ -1,0 +1,15 @@
+{
+  "name": "papapi",
+  "version": "1.0.0",
+  "description": "Analytics locally for papa duck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.40.1",
+    "mqtt": "^3.0.0"
+  }
+}
